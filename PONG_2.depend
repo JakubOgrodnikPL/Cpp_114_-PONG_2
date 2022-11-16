@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651596575 source:c:\users\jakub\documents\programowanie\pong_2\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+
